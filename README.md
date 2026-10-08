@@ -19,7 +19,6 @@
 
 - **Kişisel portföy sitesi** — Hakkımda, çalışmalarım ve iletişim bilgilerim için hazırladığım responsive web sitesi.
   - Teknolojiler: HTML, CSS, JavaScript
-  - Kaynak kodu: [Anil-Portfolio](https://github.com/AnLKocTR/Anil-Portfolio)
 
 ### Şu an
 
