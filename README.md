@@ -4,7 +4,7 @@
 
 **Bilgisayar Programcısı | Yazılım Geliştirme**
 
-Java ve web teknolojileriyle projeler geliştiriyor, öğrendiklerimi uygulamaya dönüştürerek kendimi sürekli geliştiriyorum.
+Java, Python, C# ve web teknolojileriyle ilgileniyor; yapay zekâ alanındaki gelişmeleri takip ederek kendimi geliştirmeye devam ediyorum.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnLKocTR-181717?style=for-the-badge&logo=github)](https://github.com/AnLKocTR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilim-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/an%C4%B1lko%C3%A7/)
@@ -17,14 +17,19 @@ Java ve web teknolojileriyle projeler geliştiriyor, öğrendiklerimi uygulamaya
 
 - 💻 Yazılım geliştirme alanında kendimi geliştirmeye devam ediyorum.
 - ☕ Java ile masaüstü uygulamaları ve küçük projeler geliştiriyorum.
+- 🐍 Python ve C# dillerine ilgi duyuyor, bu alanlarda becerilerimi geliştiriyorum.
 - 🗄️ MySQL ve veritabanı bağlantıları üzerine çalışmalar yapıyorum.
 - 🌐 HTML, CSS ve JavaScript ile web geliştirmeyle ilgileniyorum.
+- 🤖 Yapay zekâ ve AI destekli teknolojileri takip ediyorum.
 - 🎯 Teknik becerilerimi gerçek projelerle güçlendirmeyi hedefliyorum.
 
-## 🛠️ Teknolojiler
+## 🛠️ Teknolojiler ve İlgi Alanları
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
