@@ -58,11 +58,17 @@ Java ve MySQL kullanılarak hazırlanmış, veritabanı bağlantısı ve öğren
 
 ---
 
+<div align="left">
+
+### 📬 İletişim
+
+- **E-posta:** [aanlkoc1@hotmail.com](mailto:aanlkoc1@hotmail.com)
+- **Alternatif e-posta:** [aanlkoc1@gmail.com](mailto:aanlkoc1@gmail.com)
+- **LinkedIn:** [linkedin.com/in/anılkoç](https://www.linkedin.com/in/an%C4%B1lko%C3%A7/)
+
+</div>
+
 <div align="center">
-
-**Benimle iletişime geç**
-
-[LinkedIn](https://www.linkedin.com/in/an%C4%B1lko%C3%A7/) · [GitHub](https://github.com/AnLKocTR)
 
 *Öğrenmeye, geliştirmeye ve üretmeye devam.* ✨
 
