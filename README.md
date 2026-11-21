@@ -15,7 +15,6 @@ Java ve web teknolojileriyle projeler geliştiriyor, öğrendiklerimi uygulamaya
 
 ## 👨‍💻 Hakkımda
 
-- 🎓 Bilgisayar Programcılığı ön lisans mezunuyum.
 - 💻 Yazılım geliştirme alanında kendimi geliştirmeye devam ediyorum.
 - ☕ Java ile masaüstü uygulamaları ve küçük projeler geliştiriyorum.
 - 🗄️ MySQL ve veritabanı bağlantıları üzerine çalışmalar yapıyorum.
